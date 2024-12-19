@@ -1,5 +1,7 @@
 // LeetCode 1. Two Sum
 
+// O(n^2)
+
 class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         
