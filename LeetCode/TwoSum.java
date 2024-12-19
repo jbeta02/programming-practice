@@ -1,6 +1,7 @@
 // LeetCode 1. Two Sum
 
-// O(n^2)
+// time complexity: O(n^2)
+// space complexity: O(1)
 
 class TwoSum {
     public int[] twoSum(int[] nums, int target) {
