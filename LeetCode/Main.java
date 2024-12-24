@@ -3,9 +3,9 @@
 public class Main {
 
     public static void main(String[] args) {
-        TwoSum twoSum = new TwoSum();
-        int[] list = twoSum.twoSum(new int[]{3, 2, 4}, 5);
+        LongestCommonPrefix longestCommonPrefix = new LongestCommonPrefix();
+        String[] list = {"flower","flow","flight"};
 
-        System.out.println(list[0] + " " + list[1]);
+        System.out.println(longestCommonPrefix.longestCommonPrefix(list));
     }
 }
