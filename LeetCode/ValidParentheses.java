@@ -1,6 +1,6 @@
 // 20. Valid Parentheses
 // time: O(n)
-// space: O(1)
+// space: O(n/2)
 
 import java.util.Stack;
 
