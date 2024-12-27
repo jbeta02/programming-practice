@@ -3,9 +3,11 @@
 public class Main {
 
     public static void main(String[] args) {
-        LongestCommonPrefix longestCommonPrefix = new LongestCommonPrefix();
-        String[] list = {"flower","flow","flight"};
+        MergeTwoSortedLists mergeTwoSortedLists = new MergeTwoSortedLists();
+//        ListNode list1 = {1, 2, 4};
+//        int[] list2 = {1, 3, 4};
 
-        System.out.println(longestCommonPrefix.longestCommonPrefix(list));
+//        mergeTwoSortedLists.mergeTwoLists(list1, list2);
+//        System.out.println();
     }
 }
