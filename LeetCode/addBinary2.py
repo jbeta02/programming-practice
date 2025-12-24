@@ -1,4 +1,4 @@
-# LeetCode 67. improved version since I don't force the len of a and b to be the same which saves this solution from having to iterate over the longest string an additional time
+# LeetCode 67. improved version of previous addBinary attempt since I don't force the len of a and b to be the same which saves this solution from having to iterate over the longest string an additional time
 # time: O(n) where n is len of longest str
 # space: O(n)
 
