@@ -1,2 +1,0 @@
-nt("zero", zeroCount)
-        # print
