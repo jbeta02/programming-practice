@@ -1,0 +1,2 @@
+nt("zero", zeroCount)
+        # print
